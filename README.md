@@ -1,5 +1,7 @@
 <h1>Basic CATransitions</h1>
 
+Custom pushviewcontroller animations with CATransition
+
 ```Swift
     let type: [CATransitionType] = [.fade, .push, .reveal, .moveIn]
     let timingFunctions: [CAMediaTimingFunctionName] = [.default, .linear, .easeOut, .easeIn, .easeInEaseOut]
